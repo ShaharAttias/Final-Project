@@ -17,14 +17,16 @@
 ---
 
 ## 🧠 טכנולוגיות ואלגוריתמים
-- **צד לקוח / Frontend:** Flutter  
-- **קלט:** מצלמת סמארטפון  
-- **אלגוריתם לזיהוי אובייקטים:** YOLOv8n  
-- **הרצת המודל:** TensorFlow Lite / ONNX Runtime (בהתאם למימוש)  
-- **פלט והתראות:**  
-  - Text-to-Speech (TTS)  
-  - Vibration API  
+
+- **צד לקוח:** Flutter (Frontend)
+- **קלט:** מצלמת סמארטפון
+- **אלגוריתם לזיהוי אובייקטים:** YOLOv8n
+- **הרצת המודל:** TensorFlow Lite / ONNX Runtime (בהתאם למימוש)
+- **פלט והתראות:**
+  - Text-to-Speech (TTS)
+  - Vibration API
 - **אחסון מקומי:** SharedPreferences / Room (במידת הצורך)
+
 
 ---
 
