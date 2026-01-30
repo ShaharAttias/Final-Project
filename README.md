@@ -15,17 +15,16 @@
 - פיתוח מערכת בסיסית שניתן לשפר ולהרחיב בעתיד
 
 ---
-
 ## 🧠 טכנולוגיות ואלגוריתמים
 
-- **צד לקוח:** Flutter (Frontend)
+- **צד לקוח (Frontend):** Flutter
 - **קלט:** מצלמת סמארטפון
 - **אלגוריתם לזיהוי אובייקטים:** YOLOv8n
-- **הרצת המודל:** TensorFlow Lite / ONNX Runtime (בהתאם למימוש)
+- **הרצת המודל:** TensorFlow Lite / ONNX Runtime
 - **פלט והתראות:**
-  - Text-to-Speech (TTS)
-  - Vibration API
-- **אחסון מקומי:** SharedPreferences / Room (במידת הצורך)
+  - **המרת טקסט לדיבור (Text-to-Speech):** TTS
+  - **רטט:** Vibration API
+- **אחסון מקומי:** SharedPreferences / Roo
 
 
 ---
